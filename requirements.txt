@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+google-cloud-firestore
+google-cloud-aiplatform
+google-cloud-logging
+google-api-python-client
+google-auth-oauthlib
+pydantic
+google-cloud-aiplatform
